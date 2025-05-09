@@ -21,5 +21,5 @@ Este portfólio é uma vitrine dos meus aprendizados e projetos. Desenvolvi com 
 
 ## 💻 Como Executar
 
-Você pode visualizar o portfólio diretamente pelo GitHub Pages (ou outro link de hospedagem):
+Você pode visualizar o portfólio diretamente pelo GitHub Pages (ou outro link de hospedagem): davilaops.github.io/my-portfolio/
 
